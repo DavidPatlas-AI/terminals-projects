@@ -1,0 +1,8 @@
+---
+pid: 7972
+cwd: "C:\Users\DAVID\Desktop"
+command: "$env:Path += \";C:\\Users\\DAVID\\.grok\\bin\"; grok"
+started_at: 2026-06-08T09:22:44.277Z
+running_for_ms: 95004    
+---
+C:\Users\DAVID\Desktop╭────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮│││⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⣠⠀Grok Build Beta  0.2.33││⠀⠀⠀⣠⣾⠿⠛⠛⠛⠛⢀⣴⠃⠀ThanksfortryingGrokBuild,givefeedbackwith/feedback!││⠀⠀⣼⡟⠁⠀⠀⠀⢀⡴⠻⣿⡀⠀││⠀⠀⣿⡇⠀⠀⠀⠔⠁⠀⠀⣿⡇⠀Composer 2.5 is here!││⠀⠀⢹⣷⠀⠀⠀⠀⠀⢀⣴⡿⠀⠀Cursor'slatestmodelisnowavailable.Tryitoutinthe/modelpicker.││⠀⢀⠞⠁⠠⢶⣶⣶⣶⠿⠋⠀⠀⠀││⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀││[New worktreectrl+w]││[Resume sessionctrl+s]││[Changelogctrl+l]││[Quitctrl+q]│││╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯Tip: Use@!forhiddenorignoredfiles:@!.github/workflows.╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮│❯│╰─────────────────────────────────────────────────────────────────────────────────────────────────────GrokBuild─╯Beta
